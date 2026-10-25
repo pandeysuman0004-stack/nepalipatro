@@ -67,6 +67,24 @@ async function forex() {
   return { source: 'नेपाल राष्ट्र बैंक', sourceUrl: 'https://www.nrb.org.np/forex/', rateDate: today.date, fetchedAt: nowIso(), items };
 }
 
+/* Fallback when NRB is unreachable from the build server: international mid-market rates */
+const FX_LIST = [['USD','U.S. Dollar',1],['EUR','European Euro',1],['GBP','UK Pound Sterling',1],['INR','Indian Rupee',100],['AUD','Australian Dollar',1],['CAD','Canadian Dollar',1],['JPY','Japanese Yen',10],['CNY','Chinese Yuan',1],['AED','UAE Dirham',1],['QAR','Qatari Riyal',1],['SAR','Saudi Arabian Riyal',1],['KWD','Kuwaiti Dinar',1],['BHD','Bahrain Dinar',1],['OMR','Omani Rial',1],['MYR','Malaysian Ringgit',1],['KRW','South Korean Won',100],['SGD','Singapore Dollar',1],['HKD','Hong Kong Dollar',1],['CHF','Swiss Franc',1],['SEK','Swedish Kroner',1],['DKK','Danish Kroner',1],['THB','Thai Baht',1]];
+async function forexMarket() {
+  const j = await get('https://open.er-api.com/v6/latest/NPR');
+  if (j.result !== 'success' || !j.rates) throw new Error('market rates unavailable');
+  let prev = {};
+  try { const old = JSON.parse(await readFile(new URL('forex.json', OUT), 'utf8')); prev = Object.fromEntries((old.items || []).map(r => [r.iso3, r.buy])); } catch {}
+  const items = FX_LIST.filter(([c]) => j.rates[c]).map(([iso3, name, unit]) => {
+    const mid = Math.round(unit / j.rates[iso3] * 100) / 100;
+    return { iso3, name, unit, buy: mid, sell: mid, prevBuy: prev[iso3] ?? null };
+  });
+  return { source: 'अन्तर्राष्ट्रिय बजार दर (ExchangeRate-API)', sourceUrl: 'https://www.exchangerate-api.com', mid: true, rateDate: new Date(j.time_last_update_unix * 1000).toISOString().slice(0, 10), fetchedAt: nowIso(), items };
+}
+async function forexAny() {
+  try { return await forex(); }
+  catch (e) { log('NRB failed:', e.message, '- using market rates'); return await forexMarket(); }
+}
+
 /* ---- News: public RSS feeds ---- */
 const FEEDS = [
   ['अनलाइनखबर', 'https://www.onlinekhabar.com/feed'],
@@ -118,6 +136,6 @@ async function radio() {
 }
 
 await step('gold.json', gold);
-await step('forex.json', forex);
+await step('forex.json', forexAny);
 await step('news.json', news);
 await step('radio.json', radio);

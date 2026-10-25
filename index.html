@@ -960,9 +960,10 @@ async function renderGold() {
 async function renderFx() {
   const f = await loadData('forex'), el = document.getElementById('fxPane');
   if (!f.items || !f.items.length) { el.innerHTML = pendingMsg; return; }
-  el.innerHTML = `<p class="src">स्रोत: ${esc(f.source)} · ${esc(f.rateDate)} को दर · अद्यावधिक: ${npTime(f.fetchedAt)}</p>
-    <div class="tablewrap"><table class="fx"><thead><tr><th>मुद्रा</th><th>एकाइ</th><th>खरिद</th><th>बिक्री</th></tr></thead><tbody>
-    ${f.items.map(r => `<tr><td><b>${esc(r.iso3)}</b><small>${esc(r.name)}</small></td><td class="num">${np(r.unit)}</td><td class="num">${np(r.buy.toFixed(2))}${r.prevBuy != null && r.prevBuy !== r.buy ? `<small class="chg ${r.buy > r.prevBuy ? 'up' : 'down'}">${r.buy > r.prevBuy ? '▲' : '▼'} ${np(Math.abs(r.buy - r.prevBuy).toFixed(2))}</small>` : ''}</td><td class="num">${np(r.sell.toFixed(2))}</td></tr>`).join('')}
+  const mid = !!f.mid;
+  el.innerHTML = `<p class="src">स्रोत: ${esc(f.source)} · ${np(esc(f.rateDate))} को दर · अद्यावधिक: ${npTime(f.fetchedAt)}${mid ? '<br>नेपाल राष्ट्र बैंकको आधिकारिक दर अहिले उपलब्ध नभएकाले बजारको औसत दर देखाइएको छ।' : ''}</p>
+    <div class="tablewrap"><table class="fx"><thead><tr><th>मुद्रा</th><th>एकाइ</th>${mid ? '<th>दर (रु)</th>' : '<th>खरिद</th><th>बिक्री</th>'}</tr></thead><tbody>
+    ${f.items.map(r => `<tr><td><b>${esc(r.iso3)}</b><small>${esc(r.name)}</small></td><td class="num">${np(r.unit)}</td><td class="num">${np(r.buy.toFixed(2))}${r.prevBuy != null && r.prevBuy !== r.buy ? `<small class="chg ${r.buy > r.prevBuy ? 'up' : 'down'}">${r.buy > r.prevBuy ? '▲' : '▼'} ${np(Math.abs(r.buy - r.prevBuy).toFixed(2))}</small>` : ''}</td>${mid ? '' : `<td class="num">${np(r.sell.toFixed(2))}</td>`}</tr>`).join('')}
     </tbody></table></div>`;
 }
 function setBazarTab(gold) {
