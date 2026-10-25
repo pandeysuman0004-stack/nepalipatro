@@ -1,0 +1,39 @@
+name: Update live data
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # every hour
+  workflow_dispatch:        # "Run workflow" button
+  push:
+    paths: ["scripts/**", ".github/workflows/**"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Fetch gold, forex, news and radio
+        run: node scripts/update.mjs
+      - name: Commit changes
+        run: |
+          git config user.name "patro-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update live data $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase
+            git push
+          fi
