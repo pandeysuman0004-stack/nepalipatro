@@ -1,8 +1,8 @@
 {
  "source": "नेपाल राष्ट्र बैंक",
  "sourceUrl": "https://www.nrb.org.np/forex/",
- "rateDate": "2026-10-28",
- "fetchedAt": "2026-10-28T12:51:02.902Z",
+ "rateDate": "2026-10-29",
+ "fetchedAt": "2026-10-28T18:52:00.197Z",
  "items": [
   {
    "iso3": "INR",
@@ -16,57 +16,57 @@
    "iso3": "USD",
    "name": "U.S. Dollar",
    "unit": 1,
-   "buy": 151.89,
-   "sell": 152.49,
-   "prevBuy": 152
+   "buy": 152.06,
+   "sell": 152.66,
+   "prevBuy": 151.89
   },
   {
    "iso3": "EUR",
    "name": "European Euro",
    "unit": 1,
-   "buy": 169.21,
-   "sell": 169.88,
-   "prevBuy": 170.32
+   "buy": 169.17,
+   "sell": 169.83,
+   "prevBuy": 169.21
   },
   {
    "iso3": "GBP",
    "name": "UK Pound Sterling",
    "unit": 1,
-   "buy": 202.24,
-   "sell": 203.04,
-   "prevBuy": 202.85
+   "buy": 202,
+   "sell": 202.79,
+   "prevBuy": 202.24
   },
   {
    "iso3": "CHF",
    "name": "Swiss Franc",
    "unit": 1,
-   "buy": 183.34,
-   "sell": 184.07,
-   "prevBuy": 184.03
+   "buy": 183.12,
+   "sell": 183.84,
+   "prevBuy": 183.34
   },
   {
    "iso3": "AUD",
    "name": "Australian Dollar",
    "unit": 1,
-   "buy": 106.71,
-   "sell": 107.13,
-   "prevBuy": 106.98
+   "buy": 106.87,
+   "sell": 107.29,
+   "prevBuy": 106.71
   },
   {
    "iso3": "CAD",
    "name": "Canadian Dollar",
    "unit": 1,
-   "buy": 108.35,
-   "sell": 108.77,
-   "prevBuy": 108.45
+   "buy": 108.15,
+   "sell": 108.58,
+   "prevBuy": 108.35
   },
   {
    "iso3": "SGD",
    "name": "Singapore Dollar",
    "unit": 1,
-   "buy": 118.5,
-   "sell": 118.97,
-   "prevBuy": 118.76
+   "buy": 118.58,
+   "sell": 119.05,
+   "prevBuy": 118.5
   },
   {
    "iso3": "JPY",
@@ -74,111 +74,111 @@
    "unit": 10,
    "buy": 9.63,
    "sell": 9.67,
-   "prevBuy": 9.66
+   "prevBuy": 9.63
   },
   {
    "iso3": "CNY",
    "name": "Chinese Yuan",
    "unit": 1,
-   "buy": 22.78,
-   "sell": 22.87,
-   "prevBuy": 22.79
+   "buy": 22.81,
+   "sell": 22.9,
+   "prevBuy": 22.78
   },
   {
    "iso3": "SAR",
    "name": "Saudi Arabian Riyal",
    "unit": 1,
-   "buy": 40.47,
-   "sell": 40.63,
-   "prevBuy": 40.5
+   "buy": 40.52,
+   "sell": 40.68,
+   "prevBuy": 40.47
   },
   {
    "iso3": "QAR",
    "name": "Qatari Riyal",
    "unit": 1,
-   "buy": 41.67,
-   "sell": 41.84,
-   "prevBuy": 41.7
+   "buy": 41.72,
+   "sell": 41.88,
+   "prevBuy": 41.67
   },
   {
    "iso3": "THB",
    "name": "Thai Baht",
    "unit": 1,
-   "buy": 4.5,
+   "buy": 4.51,
    "sell": 4.52,
-   "prevBuy": 4.49
+   "prevBuy": 4.5
   },
   {
    "iso3": "AED",
    "name": "UAE Dirham",
    "unit": 1,
-   "buy": 41.36,
-   "sell": 41.52,
-   "prevBuy": 41.39
+   "buy": 41.4,
+   "sell": 41.56,
+   "prevBuy": 41.36
   },
   {
    "iso3": "MYR",
    "name": "Malaysian Ringgit",
    "unit": 1,
-   "buy": 37.15,
-   "sell": 37.29,
-   "prevBuy": 37.19
+   "buy": 37.3,
+   "sell": 37.44,
+   "prevBuy": 37.15
   },
   {
    "iso3": "KRW",
    "name": "South Korean Won",
    "unit": 100,
-   "buy": 11.44,
-   "sell": 11.49,
-   "prevBuy": 11.48
+   "buy": 11.35,
+   "sell": 11.4,
+   "prevBuy": 11.44
   },
   {
    "iso3": "SEK",
    "name": "Swedish Kroner",
    "unit": 1,
-   "buy": 15.25,
-   "sell": 15.31,
-   "prevBuy": 15.29
+   "buy": 15.29,
+   "sell": 15.35,
+   "prevBuy": 15.25
   },
   {
    "iso3": "DKK",
    "name": "Danish Kroner",
    "unit": 1,
-   "buy": 22.64,
-   "sell": 22.73,
-   "prevBuy": 22.79
+   "buy": 22.63,
+   "sell": 22.72,
+   "prevBuy": 22.64
   },
   {
    "iso3": "HKD",
    "name": "Hong Kong Dollar",
    "unit": 1,
-   "buy": 19.36,
-   "sell": 19.44,
-   "prevBuy": 19.38
+   "buy": 19.38,
+   "sell": 19.46,
+   "prevBuy": 19.36
   },
   {
    "iso3": "KWD",
    "name": "Kuwaity Dinar",
    "unit": 1,
-   "buy": 492.91,
-   "sell": 494.86,
-   "prevBuy": 493.51
+   "buy": 493.14,
+   "sell": 495.09,
+   "prevBuy": 492.91
   },
   {
    "iso3": "BHD",
    "name": "Bahrain Dinar",
    "unit": 1,
-   "buy": 402.62,
-   "sell": 404.21,
-   "prevBuy": 402.97
+   "buy": 402.97,
+   "sell": 404.56,
+   "prevBuy": 402.62
   },
   {
    "iso3": "OMR",
    "name": "Omani Rial",
    "unit": 1,
-   "buy": 394.5,
-   "sell": 396.06,
-   "prevBuy": 394.79
+   "buy": 394.95,
+   "sell": 396.5,
+   "prevBuy": 394.5
   }
  ]
 }
