@@ -1,6 +1,6 @@
 {
  "source": "radio-browser.info",
- "fetchedAt": "2026-10-28T18:52:03.395Z",
+ "fetchedAt": "2026-10-28T23:13:46.653Z",
  "items": [
   {
    "id": "724e92cd-9d57-4fef-b7e6-adad9fcc270d",
@@ -123,12 +123,28 @@
    "tags": ""
   },
   {
+   "id": "74e0791d-cfd0-49a7-957f-89750dcdd444",
+   "name": "Ultimaě radio",
+   "stream": "https://ultimae-bofaradio.radioca.st/",
+   "favicon": "",
+   "city": "",
+   "tags": "electronic"
+  },
+  {
    "id": "f341de6a-f448-4034-8325-012cb3b832a5",
    "name": "RadioSagar",
    "stream": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/",
    "favicon": "",
    "city": "",
    "tags": "pop"
+  },
+  {
+   "id": "6c4ff524-1915-425d-a136-94afb6939503",
+   "name": "Radio Audio Full Time Comedy",
+   "stream": "https://www.hamropatro.com/api/radio/stream/16",
+   "favicon": "",
+   "city": "",
+   "tags": ""
   },
   {
    "id": "08e1646d-886f-4383-b5be-03fed535292e",
@@ -163,20 +179,20 @@
    "tags": ""
   },
   {
+   "id": "680b7512-e8f8-4ab9-9922-57479b828d58",
+   "name": "Music City",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5685532208136192",
+   "favicon": "",
+   "city": "",
+   "tags": ""
+  },
+  {
    "id": "3e2e793d-0dc0-4cdd-b03d-adc252e0c662",
    "name": "Image FM",
    "stream": "https://www.hamropatro.com/api/radio/stream/9",
    "favicon": "",
    "city": "",
    "tags": ""
-  },
-  {
-   "id": "74e0791d-cfd0-49a7-957f-89750dcdd444",
-   "name": "Ultimaě radio",
-   "stream": "https://ultimae-bofaradio.radioca.st/",
-   "favicon": "",
-   "city": "",
-   "tags": "electronic"
   },
   {
    "id": "fa1859bd-4a8d-4ca3-9144-96c6475ac887",
@@ -195,17 +211,9 @@
    "tags": ""
   },
   {
-   "id": "b20a3254-a219-480d-b005-885d80332458",
-   "name": "Tinau FM",
-   "stream": "https://streaming.softnep.net:10854/;stream.nsv;type=mp3&volume=70",
-   "favicon": "",
-   "city": "Butwal",
-   "tags": ""
-  },
-  {
-   "id": "6c4ff524-1915-425d-a136-94afb6939503",
-   "name": "Radio Audio Full Time Comedy",
-   "stream": "https://www.hamropatro.com/api/radio/stream/16",
+   "id": "57daa244-452f-4d35-8bc7-ac117e23c4d0",
+   "name": "Radio Annapurna Nepal",
+   "stream": "https://www.hamropatro.com/api/radio/stream/34",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -227,17 +235,17 @@
    "tags": ""
   },
   {
-   "id": "0e86009e-1187-4534-aba8-17f4bde4e61f",
-   "name": "VSansar Online Radio",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5117028245438464",
+   "id": "a6cc118a-9941-4e39-8d77-fc91e257abb9",
+   "name": "Napho Radio FM 88.25",
+   "stream": "https://radio11.plathong.net/7136/;stream.mp3",
    "favicon": "",
    "city": "",
    "tags": ""
   },
   {
-   "id": "1a797814-993b-45e1-b93b-54ee56cf86e2",
-   "name": "Sumiran FM",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5132813491765248",
+   "id": "0e86009e-1187-4534-aba8-17f4bde4e61f",
+   "name": "VSansar Online Radio",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5117028245438464",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -283,17 +291,9 @@
    "tags": ""
   },
   {
-   "id": "680b7512-e8f8-4ab9-9922-57479b828d58",
-   "name": "Music City",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5685532208136192",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
-   "id": "2af78431-a387-401a-813f-1ad1ede8265b",
-   "name": "Nsanchar Online Radio",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5729629102931968",
+   "id": "d5b88768-385c-443f-8f86-af45f96b8b37",
+   "name": "Radio Sambridha Nepal (Nesdo Fm) (92.6)",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5712961207271424",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -302,6 +302,14 @@
    "id": "aca58b51-603c-4fd5-9d14-bc914ae35510",
    "name": "Radio Kathmandu",
    "stream": "https://www.hamropatro.com/api/radio/stream/592",
+   "favicon": "",
+   "city": "",
+   "tags": ""
+  },
+  {
+   "id": "80507d00-a63d-4963-abaf-e127c0fcefa8",
+   "name": "Radio Harpal",
+   "stream": "https://www.hamropatro.com/api/radio/stream/604",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -336,6 +344,14 @@
    "stream": "https://streaming.softnep.net:10994/;stream.nsv",
    "favicon": "",
    "city": "",
+   "tags": ""
+  },
+  {
+   "id": "b20a3254-a219-480d-b005-885d80332458",
+   "name": "Tinau FM",
+   "stream": "https://streaming.softnep.net:10854/;stream.nsv;type=mp3&volume=70",
+   "favicon": "",
+   "city": "Butwal",
    "tags": ""
   },
   {
@@ -395,14 +411,6 @@
    "tags": ""
   },
   {
-   "id": "57daa244-452f-4d35-8bc7-ac117e23c4d0",
-   "name": "Radio Annapurna Nepal",
-   "stream": "https://www.hamropatro.com/api/radio/stream/34",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
    "id": "24c8b1c2-cf0d-4621-b457-739357bca194",
    "name": "Antenna Foundation Nepal",
    "stream": "https://www.hamropatro.com/api/radio/stream/362",
@@ -414,14 +422,6 @@
    "id": "954ff8df-6000-443b-b139-b4a8ab4da720",
    "name": "Image News",
    "stream": "https://www.hamropatro.com/api/radio/stream/439",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
-   "id": "58bf7768-a4c7-492c-a178-3412bb552c38",
-   "name": "Red FM",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5070153408577536",
    "favicon": "",
    "city": "",
    "tags": ""
