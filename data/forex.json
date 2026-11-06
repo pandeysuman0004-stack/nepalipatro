@@ -2,31 +2,31 @@
  "source": "अन्तर्राष्ट्रिय बजार दर (ExchangeRate-API)",
  "sourceUrl": "https://www.exchangerate-api.com",
  "mid": true,
- "rateDate": "2026-11-05",
- "fetchedAt": "2026-11-06T00:14:08.344Z",
+ "rateDate": "2026-11-06",
+ "fetchedAt": "2026-11-06T06:47:11.212Z",
  "items": [
   {
    "iso3": "USD",
    "name": "U.S. Dollar",
    "unit": 1,
-   "buy": 151.4,
-   "sell": 151.4,
+   "buy": 151.26,
+   "sell": 151.26,
    "prevBuy": 151.4
   },
   {
    "iso3": "EUR",
    "name": "European Euro",
    "unit": 1,
-   "buy": 170.01,
-   "sell": 170.01,
+   "buy": 169.72,
+   "sell": 169.72,
    "prevBuy": 170.01
   },
   {
    "iso3": "GBP",
    "name": "UK Pound Sterling",
    "unit": 1,
-   "buy": 203.96,
-   "sell": 203.96,
+   "buy": 203.54,
+   "sell": 203.54,
    "prevBuy": 203.96
   },
   {
@@ -41,144 +41,144 @@
    "iso3": "AUD",
    "name": "Australian Dollar",
    "unit": 1,
-   "buy": 106.03,
-   "sell": 106.03,
+   "buy": 105.29,
+   "sell": 105.29,
    "prevBuy": 106.03
   },
   {
    "iso3": "CAD",
    "name": "Canadian Dollar",
    "unit": 1,
-   "buy": 108.42,
-   "sell": 108.42,
+   "buy": 108.13,
+   "sell": 108.13,
    "prevBuy": 108.42
   },
   {
    "iso3": "JPY",
    "name": "Japanese Yen",
    "unit": 10,
-   "buy": 9.55,
-   "sell": 9.55,
+   "buy": 9.56,
+   "sell": 9.56,
    "prevBuy": 9.55
   },
   {
    "iso3": "CNY",
    "name": "Chinese Yuan",
    "unit": 1,
-   "buy": 22.72,
-   "sell": 22.72,
+   "buy": 22.66,
+   "sell": 22.66,
    "prevBuy": 22.72
   },
   {
    "iso3": "AED",
    "name": "UAE Dirham",
    "unit": 1,
-   "buy": 41.22,
-   "sell": 41.22,
+   "buy": 41.19,
+   "sell": 41.19,
    "prevBuy": 41.22
   },
   {
    "iso3": "QAR",
    "name": "Qatari Riyal",
    "unit": 1,
-   "buy": 41.59,
-   "sell": 41.59,
+   "buy": 41.55,
+   "sell": 41.55,
    "prevBuy": 41.59
   },
   {
    "iso3": "SAR",
    "name": "Saudi Arabian Riyal",
    "unit": 1,
-   "buy": 40.37,
-   "sell": 40.37,
+   "buy": 40.34,
+   "sell": 40.34,
    "prevBuy": 40.37
   },
   {
    "iso3": "KWD",
    "name": "Kuwaiti Dinar",
    "unit": 1,
-   "buy": 488.28,
-   "sell": 488.28,
+   "buy": 487.57,
+   "sell": 487.57,
    "prevBuy": 488.28
   },
   {
    "iso3": "BHD",
    "name": "Bahrain Dinar",
    "unit": 1,
-   "buy": 402.58,
-   "sell": 402.58,
+   "buy": 402.25,
+   "sell": 402.25,
    "prevBuy": 402.58
   },
   {
    "iso3": "OMR",
    "name": "Omani Rial",
    "unit": 1,
-   "buy": 393.7,
-   "sell": 393.7,
+   "buy": 393.39,
+   "sell": 393.39,
    "prevBuy": 393.7
   },
   {
    "iso3": "MYR",
    "name": "Malaysian Ringgit",
    "unit": 1,
-   "buy": 37.23,
-   "sell": 37.23,
+   "buy": 37.36,
+   "sell": 37.36,
    "prevBuy": 37.23
   },
   {
    "iso3": "KRW",
    "name": "South Korean Won",
    "unit": 100,
-   "buy": 11.29,
-   "sell": 11.29,
+   "buy": 11.21,
+   "sell": 11.21,
    "prevBuy": 11.29
   },
   {
    "iso3": "SGD",
    "name": "Singapore Dollar",
    "unit": 1,
-   "buy": 118.39,
-   "sell": 118.39,
+   "buy": 118.34,
+   "sell": 118.34,
    "prevBuy": 118.39
   },
   {
    "iso3": "HKD",
    "name": "Hong Kong Dollar",
    "unit": 1,
-   "buy": 19.3,
-   "sell": 19.3,
+   "buy": 19.27,
+   "sell": 19.27,
    "prevBuy": 19.3
   },
   {
    "iso3": "CHF",
    "name": "Swiss Franc",
    "unit": 1,
-   "buy": 185.32,
-   "sell": 185.32,
+   "buy": 185.12,
+   "sell": 185.12,
    "prevBuy": 185.32
   },
   {
    "iso3": "SEK",
    "name": "Swedish Kroner",
    "unit": 1,
-   "buy": 15.53,
-   "sell": 15.53,
+   "buy": 15.44,
+   "sell": 15.44,
    "prevBuy": 15.53
   },
   {
    "iso3": "DKK",
    "name": "Danish Kroner",
    "unit": 1,
-   "buy": 22.77,
-   "sell": 22.77,
+   "buy": 22.71,
+   "sell": 22.71,
    "prevBuy": 22.77
   },
   {
    "iso3": "THB",
    "name": "Thai Baht",
    "unit": 1,
-   "buy": 4.5,
-   "sell": 4.5,
+   "buy": 4.52,
+   "sell": 4.52,
    "prevBuy": 4.5
   }
  ]
