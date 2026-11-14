@@ -1,6 +1,6 @@
 {
  "source": "radio-browser.info",
- "fetchedAt": "2026-11-13T22:36:11.448Z",
+ "fetchedAt": "2026-11-14T03:12:11.004Z",
  "items": [
   {
    "id": "9620e2a3-0601-11e8-ae97-52543be04c81",
@@ -59,14 +59,6 @@
    "tags": "himalaya,nepal"
   },
   {
-   "id": "6852f6c3-f0a4-4f74-87b3-63c566d4e953",
-   "name": "Swadesh FM",
-   "stream": "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3?1700834587158",
-   "favicon": "https://www.hamropatro.com/favicon.ico",
-   "city": "",
-   "tags": ""
-  },
-  {
    "id": "37951642-6a7a-446e-aabd-60178060b726",
    "name": "Music Maithili",
    "stream": "https://www.hamropatro.com/api/radio/stream/1754975476345",
@@ -83,25 +75,17 @@
    "tags": "entertainment,news,pop,talk"
   },
   {
+   "id": "6852f6c3-f0a4-4f74-87b3-63c566d4e953",
+   "name": "Swadesh FM",
+   "stream": "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3?1700834587158",
+   "favicon": "https://www.hamropatro.com/favicon.ico",
+   "city": "",
+   "tags": ""
+  },
+  {
    "id": "fb7bf67a-71da-4254-87ce-ffcca66cdfe8",
    "name": "BBC World Service English",
    "stream": "https://www.hamropatro.com/api/radio/stream/5639388954361856",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
-   "id": "d8764a21-8dc3-453b-89d3-70671f691555",
-   "name": "24 Nepali Online Radio",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5648733377134592",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
-   "id": "698c1427-ca23-4940-910d-75af1b17e76c",
-   "name": "Nepali Radio Network",
-   "stream": "https://www.hamropatro.com/api/radio/stream/560",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -115,36 +99,28 @@
    "tags": "nepali evergreen"
   },
   {
-   "id": "8620f316-926d-4696-ba8a-90294c9612e2",
-   "name": "Nepali Online Radio",
-   "stream": "https://www.hamropatro.com/api/radio/stream/1754975892132",
+   "id": "698c1427-ca23-4940-910d-75af1b17e76c",
+   "name": "Nepali Radio Network",
+   "stream": "https://www.hamropatro.com/api/radio/stream/560",
    "favicon": "",
    "city": "",
    "tags": ""
   },
   {
-   "id": "7c738df1-a57e-433f-bb48-7cae94edd73e",
-   "name": "Nepali Sanchar Radio",
-   "stream": "https://www.hamropatro.com/api/radio/stream/160",
+   "id": "d8764a21-8dc3-453b-89d3-70671f691555",
+   "name": "24 Nepali Online Radio",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5648733377134592",
    "favicon": "",
    "city": "",
    "tags": ""
   },
   {
-   "id": "d5b88768-385c-443f-8f86-af45f96b8b37",
-   "name": "Radio Sambridha Nepal (Nesdo Fm) (92.6)",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5712961207271424",
+   "id": "f7d8a07a-21dc-40cf-82fe-ac8483e364c3",
+   "name": "Butwal FM",
+   "stream": "https://streaming.softnep.net:10994/;stream.nsv",
    "favicon": "",
    "city": "",
    "tags": ""
-  },
-  {
-   "id": "1bdf27fc-a902-420f-a9f8-ac2571f534c7",
-   "name": "Universal Health Radio (नेपाली)",
-   "stream": "https://radio.universalhealthradio.org/uhr-ne.mp3",
-   "favicon": "https://universalhealthradio.org/favicon.png",
-   "city": "",
-   "tags": "cdc,education,fda,health,nepali,news,public health,who"
   },
   {
    "id": "57daa244-452f-4d35-8bc7-ac117e23c4d0",
@@ -163,17 +139,9 @@
    "tags": ""
   },
   {
-   "id": "fcde3a55-d4c9-44f6-9588-4f81774dcc40",
-   "name": "Radio Bandhan",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5676510457364480",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
-   "id": "5addfb96-f8ad-4ae3-a9c8-0ed6a6704019",
-   "name": "Radio Jhapa",
-   "stream": "https://www.hamropatro.com/api/radio/stream/612",
+   "id": "d5b88768-385c-443f-8f86-af45f96b8b37",
+   "name": "Radio Sambridha Nepal (Nesdo Fm) (92.6)",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5712961207271424",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -187,25 +155,25 @@
    "tags": ""
   },
   {
-   "id": "f7d8a07a-21dc-40cf-82fe-ac8483e364c3",
-   "name": "Butwal FM",
-   "stream": "https://streaming.softnep.net:10994/;stream.nsv",
+   "id": "7c738df1-a57e-433f-bb48-7cae94edd73e",
+   "name": "Nepali Sanchar Radio",
+   "stream": "https://www.hamropatro.com/api/radio/stream/160",
    "favicon": "",
    "city": "",
    "tags": ""
   },
   {
-   "id": "0f4abf1c-6907-4860-9fe9-383ca7890867",
-   "name": "Radio Sagarmatha",
-   "stream": "https://www.hamropatro.com/api/radio/stream/36",
+   "id": "8620f316-926d-4696-ba8a-90294c9612e2",
+   "name": "Nepali Online Radio",
+   "stream": "https://www.hamropatro.com/api/radio/stream/1754975892132",
    "favicon": "",
    "city": "",
    "tags": ""
   },
   {
-   "id": "256cd8a9-9a8c-4f1d-a945-37d1d33d2954",
-   "name": "Nepal Network",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5092732051652608",
+   "id": "0179098d-0dac-4344-a5d4-c59d87757a6d",
+   "name": "Kalika F.M",
+   "stream": "https://www.hamropatro.com/api/radio/stream/38",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -219,17 +187,9 @@
    "tags": ""
   },
   {
-   "id": "f1c1c113-b851-4497-aa8a-33e7bd51d579",
-   "name": "Kalika FM Musical",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5722620169289728",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
-   "id": "967553fd-2cf5-46f2-b068-891599c6f47c",
-   "name": "NepalBodh",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5762972326559744",
+   "id": "aca58b51-603c-4fd5-9d14-bc914ae35510",
+   "name": "Radio Kathmandu",
+   "stream": "https://www.hamropatro.com/api/radio/stream/592",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -251,28 +211,12 @@
    "tags": ""
   },
   {
-   "id": "6fe1411f-9aa6-42d1-a1ee-02ac2e6d0941",
-   "name": "Jayaprithvi F.M.",
-   "stream": "https://streaming.softnep.net:10824/",
-   "favicon": "https://cdn-profiles.tunein.com/s343823/images/logod.jpg?t=638841604500000000",
-   "city": "Sudurpaschim",
-   "tags": "classical,news"
-  },
-  {
-   "id": "74e0791d-cfd0-49a7-957f-89750dcdd444",
-   "name": "Ultimaě radio",
-   "stream": "https://ultimae-bofaradio.radioca.st/",
-   "favicon": "",
+   "id": "1bdf27fc-a902-420f-a9f8-ac2571f534c7",
+   "name": "Universal Health Radio (नेपाली)",
+   "stream": "https://radio.universalhealthradio.org/uhr-ne.mp3",
+   "favicon": "https://universalhealthradio.org/favicon.png",
    "city": "",
-   "tags": "electronic"
-  },
-  {
-   "id": "6c0eecb0-e8bf-44ce-9c7b-17eca6d95b8c",
-   "name": "Radio Thaha Sanchar",
-   "stream": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3",
-   "favicon": "null",
-   "city": "",
-   "tags": ""
+   "tags": "cdc,education,fda,health,nepali,news,public health,who"
   },
   {
    "id": "88e2eb2e-19ba-4f61-90c1-2559361166cd",
@@ -291,25 +235,25 @@
    "tags": ""
   },
   {
-   "id": "60227a9f-5496-4ea1-8719-438e7d99a743",
-   "name": "Unique FM (97.6 MHz)",
-   "stream": "https://www.hamropatro.com/api/radio/stream/360",
+   "id": "878f1412-268b-4b4f-8b09-33c265caff76",
+   "name": "Advance FM",
+   "stream": "https://www.hamropatro.com/api/radio/stream/1777266954225",
    "favicon": "",
    "city": "",
    "tags": ""
   },
   {
-   "id": "24c8b1c2-cf0d-4621-b457-739357bca194",
-   "name": "Antenna Foundation Nepal",
-   "stream": "https://www.hamropatro.com/api/radio/stream/362",
+   "id": "0f4abf1c-6907-4860-9fe9-383ca7890867",
+   "name": "Radio Sagarmatha",
+   "stream": "https://www.hamropatro.com/api/radio/stream/36",
    "favicon": "",
    "city": "",
    "tags": ""
   },
   {
-   "id": "0179098d-0dac-4344-a5d4-c59d87757a6d",
-   "name": "Kalika F.M",
-   "stream": "https://www.hamropatro.com/api/radio/stream/38",
+   "id": "256cd8a9-9a8c-4f1d-a945-37d1d33d2954",
+   "name": "Nepal Network",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5092732051652608",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -326,22 +270,6 @@
    "id": "3f31ba8e-6d42-46c3-8caa-9642937b4d27",
    "name": "Afno Fm Okhaldhunga",
    "stream": "https://www.hamropatro.com/api/radio/stream/5135177703489536",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
-   "id": "d613dddb-407d-4f8e-8b52-595144c173e9",
-   "name": "Radio Bijayabasti",
-   "stream": "https://www.hamropatro.com/api/radio/stream/536",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
-   "id": "9f9cd9e9-5d34-4ce6-98f4-21607d8bda92",
-   "name": "Radio Samarpan",
-   "stream": "https://www.hamropatro.com/api/radio/stream/545",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -371,9 +299,9 @@
    "tags": ""
   },
   {
-   "id": "4053d4ae-0c32-4d22-baeb-15e65aa8ea3e",
-   "name": "Jayaprithvi FM",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5668801058177024",
+   "id": "fcde3a55-d4c9-44f6-9588-4f81774dcc40",
+   "name": "Radio Bandhan",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5676510457364480",
    "favicon": "",
    "city": "",
    "tags": ""
@@ -387,30 +315,6 @@
    "tags": ""
   },
   {
-   "id": "4c11c497-f31f-4462-ab3f-c3133d54a499",
-   "name": "Radio Pariwartan",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5702767270166528",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
-   "id": "413716cc-c822-431b-93b3-3ecbe7800ee4",
-   "name": "Nagarik FM (107.5 MHz)",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5723814438633472",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
-   "id": "0e93d879-0e0d-4cc1-a935-e005753e0d38",
-   "name": "Prime Fm",
-   "stream": "https://www.hamropatro.com/api/radio/stream/5744707193798656",
-   "favicon": "",
-   "city": "",
-   "tags": ""
-  },
-  {
    "id": "7cb08668-3c39-4343-b840-14892ae28d0d",
    "name": "Radio Chitwan",
    "stream": "https://www.hamropatro.com/api/radio/stream/5756424605007872",
@@ -419,19 +323,115 @@
    "tags": ""
   },
   {
-   "id": "aca58b51-603c-4fd5-9d14-bc914ae35510",
-   "name": "Radio Kathmandu",
-   "stream": "https://www.hamropatro.com/api/radio/stream/592",
+   "id": "967553fd-2cf5-46f2-b068-891599c6f47c",
+   "name": "NepalBodh",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5762972326559744",
    "favicon": "",
    "city": "",
    "tags": ""
   },
   {
-   "id": "655d76c0-f0b0-4adc-a457-43a608d9917d",
-   "name": "Tinau FM",
-   "stream": "https://streaming.softnep.net:10854/;stream.nsv;type=mp3&volume=70",
+   "id": "5addfb96-f8ad-4ae3-a9c8-0ed6a6704019",
+   "name": "Radio Jhapa",
+   "stream": "https://www.hamropatro.com/api/radio/stream/612",
    "favicon": "",
-   "city": "Butwal",
+   "city": "",
+   "tags": ""
+  },
+  {
+   "id": "6fe1411f-9aa6-42d1-a1ee-02ac2e6d0941",
+   "name": "Jayaprithvi F.M.",
+   "stream": "https://streaming.softnep.net:10824/",
+   "favicon": "https://cdn-profiles.tunein.com/s343823/images/logod.jpg?t=638841604500000000",
+   "city": "Sudurpaschim",
+   "tags": "classical,news"
+  },
+  {
+   "id": "74e0791d-cfd0-49a7-957f-89750dcdd444",
+   "name": "Ultimaě radio",
+   "stream": "https://ultimae-bofaradio.radioca.st/",
+   "favicon": "",
+   "city": "",
+   "tags": "electronic"
+  },
+  {
+   "id": "6c0eecb0-e8bf-44ce-9c7b-17eca6d95b8c",
+   "name": "Radio Thaha Sanchar",
+   "stream": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3",
+   "favicon": "null",
+   "city": "",
+   "tags": ""
+  },
+  {
+   "id": "f341de6a-f448-4034-8325-012cb3b832a5",
+   "name": "RadioSagar",
+   "stream": "https://eu1.fastcast4u.com/proxy/radiosag?mp=/stream/1/",
+   "favicon": "",
+   "city": "",
+   "tags": "pop"
+  },
+  {
+   "id": "cded1cf7-d685-4332-8ce4-4ef9ea52bd85",
+   "name": "Bhaktapur FM",
+   "stream": "https://www.hamropatro.com/api/radio/stream/303",
+   "favicon": "",
+   "city": "",
+   "tags": ""
+  },
+  {
+   "id": "60227a9f-5496-4ea1-8719-438e7d99a743",
+   "name": "Unique FM (97.6 MHz)",
+   "stream": "https://www.hamropatro.com/api/radio/stream/360",
+   "favicon": "",
+   "city": "",
+   "tags": ""
+  },
+  {
+   "id": "24c8b1c2-cf0d-4621-b457-739357bca194",
+   "name": "Antenna Foundation Nepal",
+   "stream": "https://www.hamropatro.com/api/radio/stream/362",
+   "favicon": "",
+   "city": "",
+   "tags": ""
+  },
+  {
+   "id": "954ff8df-6000-443b-b139-b4a8ab4da720",
+   "name": "Image News",
+   "stream": "https://www.hamropatro.com/api/radio/stream/439",
+   "favicon": "",
+   "city": "",
+   "tags": ""
+  },
+  {
+   "id": "0f35fc23-2196-4da8-ad2e-b95137db4805",
+   "name": "Rajbanshi Online Radio",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5089000765259776",
+   "favicon": "",
+   "city": "",
+   "tags": ""
+  },
+  {
+   "id": "8782443c-995a-479b-88b9-64e8297afb2e",
+   "name": "Kingdom Voice FM",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5096889982648320",
+   "favicon": "",
+   "city": "",
+   "tags": ""
+  },
+  {
+   "id": "b76fedcc-e49a-48b9-a091-ca54ffae81bf",
+   "name": "Radio Jugar FM",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5098565154111488",
+   "favicon": "",
+   "city": "",
+   "tags": ""
+  },
+  {
+   "id": "0e86009e-1187-4534-aba8-17f4bde4e61f",
+   "name": "VSansar Online Radio",
+   "stream": "https://www.hamropatro.com/api/radio/stream/5117028245438464",
+   "favicon": "",
+   "city": "",
    "tags": ""
   }
  ]
