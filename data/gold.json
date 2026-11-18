@@ -1,32 +1,32 @@
 {
  "source": "नेपाल सुनचाँदी व्यवसायी महासंघ (FENEGOSIDA)",
  "sourceUrl": "https://www.fenegosida.org",
- "rateDate": "2026-11-17T04:48:33.611+00:00",
- "prevDate": "2026-11-16T04:45:00.192+00:00",
- "fetchedAt": "2026-11-18T04:17:37.274Z",
+ "rateDate": "2026-11-18T04:49:27.317+00:00",
+ "prevDate": "2026-11-17T04:48:33.611+00:00",
+ "fetchedAt": "2026-11-18T13:55:40.527Z",
  "items": [
   {
    "key": "gold",
    "name": "छापावाल सुन",
    "tola": {
-    "rate": 267200,
-    "prev": 269100
+    "rate": 260900,
+    "prev": 267200
    },
    "gram10": {
-    "rate": 229080,
-    "prev": 230710
+    "rate": 223680,
+    "prev": 229080
    }
   },
   {
    "key": "silver",
    "name": "चाँदी",
    "tola": {
-    "rate": 3490,
-    "prev": 3520
+    "rate": 3380,
+    "prev": 3490
    },
    "gram10": {
-    "rate": 2992,
-    "prev": 3018
+    "rate": 2898,
+    "prev": 2992
    }
   }
  ]
