@@ -1,8 +1,8 @@
 {
  "source": "नेपाल राष्ट्र बैंक",
  "sourceUrl": "https://www.nrb.org.np/forex/",
- "rateDate": "2026-11-28",
- "fetchedAt": "2026-11-28T10:22:37.096Z",
+ "rateDate": "2026-11-29",
+ "fetchedAt": "2026-11-28T18:55:05.402Z",
  "items": [
   {
    "iso3": "INR",
@@ -18,7 +18,7 @@
    "unit": 1,
    "buy": 148.48,
    "sell": 149.08,
-   "prevBuy": 147.62
+   "prevBuy": 148.48
   },
   {
    "iso3": "EUR",
@@ -26,7 +26,7 @@
    "unit": 1,
    "buy": 162.7,
    "sell": 163.36,
-   "prevBuy": 161.95
+   "prevBuy": 162.7
   },
   {
    "iso3": "GBP",
@@ -34,7 +34,7 @@
    "unit": 1,
    "buy": 194.87,
    "sell": 195.66,
-   "prevBuy": 193.52
+   "prevBuy": 194.87
   },
   {
    "iso3": "CHF",
@@ -42,7 +42,7 @@
    "unit": 1,
    "buy": 177.63,
    "sell": 178.35,
-   "prevBuy": 177.1
+   "prevBuy": 177.63
   },
   {
    "iso3": "AUD",
@@ -50,7 +50,7 @@
    "unit": 1,
    "buy": 99.09,
    "sell": 99.49,
-   "prevBuy": 97.9
+   "prevBuy": 99.09
   },
   {
    "iso3": "CAD",
@@ -58,7 +58,7 @@
    "unit": 1,
    "buy": 104.22,
    "sell": 104.64,
-   "prevBuy": 103.76
+   "prevBuy": 104.22
   },
   {
    "iso3": "SGD",
@@ -66,7 +66,7 @@
    "unit": 1,
    "buy": 115.13,
    "sell": 115.6,
-   "prevBuy": 114.4
+   "prevBuy": 115.13
   },
   {
    "iso3": "JPY",
@@ -74,7 +74,7 @@
    "unit": 10,
    "buy": 9.31,
    "sell": 9.34,
-   "prevBuy": 9.27
+   "prevBuy": 9.31
   },
   {
    "iso3": "CNY",
@@ -82,7 +82,7 @@
    "unit": 1,
    "buy": 22.31,
    "sell": 22.4,
-   "prevBuy": 22.16
+   "prevBuy": 22.31
   },
   {
    "iso3": "SAR",
@@ -90,7 +90,7 @@
    "unit": 1,
    "buy": 39.58,
    "sell": 39.74,
-   "prevBuy": 39.35
+   "prevBuy": 39.58
   },
   {
    "iso3": "QAR",
@@ -98,7 +98,7 @@
    "unit": 1,
    "buy": 40.72,
    "sell": 40.89,
-   "prevBuy": 40.49
+   "prevBuy": 40.72
   },
   {
    "iso3": "THB",
@@ -106,7 +106,7 @@
    "unit": 1,
    "buy": 4.38,
    "sell": 4.4,
-   "prevBuy": 4.33
+   "prevBuy": 4.38
   },
   {
    "iso3": "AED",
@@ -114,7 +114,7 @@
    "unit": 1,
    "buy": 40.43,
    "sell": 40.59,
-   "prevBuy": 40.19
+   "prevBuy": 40.43
   },
   {
    "iso3": "MYR",
@@ -122,7 +122,7 @@
    "unit": 1,
    "buy": 36.02,
    "sell": 36.16,
-   "prevBuy": 35.87
+   "prevBuy": 36.02
   },
   {
    "iso3": "KRW",
@@ -130,7 +130,7 @@
    "unit": 100,
    "buy": 11.14,
    "sell": 11.18,
-   "prevBuy": 10.98
+   "prevBuy": 11.14
   },
   {
    "iso3": "SEK",
@@ -138,7 +138,7 @@
    "unit": 1,
    "buy": 14.54,
    "sell": 14.6,
-   "prevBuy": 14.44
+   "prevBuy": 14.54
   },
   {
    "iso3": "DKK",
@@ -146,7 +146,7 @@
    "unit": 1,
    "buy": 21.77,
    "sell": 21.86,
-   "prevBuy": 21.67
+   "prevBuy": 21.77
   },
   {
    "iso3": "HKD",
@@ -154,7 +154,7 @@
    "unit": 1,
    "buy": 18.97,
    "sell": 19.04,
-   "prevBuy": 18.83
+   "prevBuy": 18.97
   },
   {
    "iso3": "KWD",
@@ -162,7 +162,7 @@
    "unit": 1,
    "buy": 480.67,
    "sell": 482.62,
-   "prevBuy": 477.89
+   "prevBuy": 480.67
   },
   {
    "iso3": "BHD",
@@ -170,7 +170,7 @@
    "unit": 1,
    "buy": 393.82,
    "sell": 395.41,
-   "prevBuy": 391.54
+   "prevBuy": 393.82
   },
   {
    "iso3": "OMR",
@@ -178,7 +178,7 @@
    "unit": 1,
    "buy": 385.65,
    "sell": 387.21,
-   "prevBuy": 383.42
+   "prevBuy": 385.65
   }
  ]
 }
